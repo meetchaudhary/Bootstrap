@@ -1,0 +1,61 @@
+            (Bootstrap Basic & Advanced)
+
+                Questions
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+1.   What are the advantages of Bootstrap?
+
+  Ans: (1)  Easy initiation
+       (2)  Responsiveness
+       (3)  Highly customizable
+       (4)  Extremely user-centric
+       (5)  Top-notch support
+       (6)  Cross-browser compatibility
+       (7)  JavaScript plugins to your rescue
+       (8)  Far-reaching popularity
+       (9)  Ample documentation
+       (10) Updates at the doorstep
+-----------------------------------------------------------------------------------------------------------------------------------------------
+2.   • What is a Bootstrap Container, and how does it work?
+
+   Ans:In Bootstrap, container is used to set the content's margins dealing with the responsive behaviors of your layout.
+       It contains the row elements and the row elements are the container of columns (known as grid system).
+       The container class is used to create boxed content.
+------------------------------------------------------------------------------------------------------------------------------------------------
+3.    What are the default Bootstrap text settings?
+
+  Ans:Bootstrap 4 uses a default font-size of 16px, and its line-height is 1.5.
+      The default font-family is "Helvetica Neue", Helvetica, Arial, sans-serif.
+      In addition, all <p> elements have margin-top: 0 and margin-bottom: 1rem (16px by default).
+-------------------------------------------------------------------------------------------------------------------------------------------------
+4.    What do you know about the Bootstrap Grid System?
+
+  Ans:Bootstrap's grid system uses a series of containers, rows, and columns to layout and align content.
+      It's built with flexbox and is fully responsive. Below is an example and an in-depth look at how the grid comes together.
+--------------------------------------------------------------------------------------------------------------------------------------------------
+5.    What is the difference between Bootstrap 4 and Bootstrap 5?
+
+  Ans:Bootstrap 4 has five levels: xs, sm, md, lg, and xl.
+      Bootstrap 5 has six levels: xs, sm, md, lg, xl, and xxl. Bootstrap 4 includes jquery and all associated plug-ins. 
+      Jquery has been deleted and replaced with vanilla JS and several functional plug-ins in Bootstrap 5.
+---------------------------------------------------------------------------------------------------------------------------------------------------
+6.    What is a Button Group, and what is the class for a basic Button Group?
+
+  Ans:“Button Groups” in Bootstrap is a class of name “btn-group” which is used to create a series of buttons in groups (without spaces)
+       vertically or horizontally. Syntax: This is the basic syntax of the button group class where each button has its own class of “btn”.
+------------------------------------------------------------------------------------------------------------------------------------------------------
+7.    How can you use Bootstrap to make thumbnails?
+
+  Ans:Add an <a> tag with the class of .thumbnail around an image.This adds four pixels of padding and a gray border.
+      On hover, an animated glow outlines the image.
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+8.    In Bootstrap 4, what is flexbox?
+
+  Ans:Flexbox. The biggest difference between Bootstrap 3 and Bootstrap 4 is that Bootstrap 4 now uses flexbox, instead of floats, to handle the layout.
+      The Flexible Box Layout Module, makes it easier to design flexible responsive layout structure without using float or positioning.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+9.    How can one create an alert in Bootstrap?
+  Ans: <div class="alert alert-info">
+         <strong>Info!</strong> This alert box could indicate a neutral informative change or action.
+       </div>
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
